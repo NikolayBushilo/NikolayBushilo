@@ -11,7 +11,7 @@
 
 If you have any questions or want to collaborate
 
-Via mail : bushilo.nikolay1@gmail.com
+Via mail : bushilo.nikolay1@gmail.com  
 Twitter  : @---------------
 
 <!--
