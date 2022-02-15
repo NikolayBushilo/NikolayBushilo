@@ -11,8 +11,8 @@
 
 If you have any questions or wish to collaborate.
 
-Via mail : bushilo.nikolay1@gmail.com  
-Twitter  : @---------------
+**Via mail** : bushilo.nikolay1@gmail.com  
+**Twitter**  : @---------------
 
 ### My other projects
 
