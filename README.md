@@ -2,9 +2,9 @@
 
 ### About me
 
-- Technology enthusiast! I enjoy talking about anything tech related - from niche Unix stuff to software and hardware.
+- Technology enthusiast ! I enjoy talking about anything tech related - from niche Unix stuff to software and hardware.
 - Linux user (Currently running Arch linux)
-- I am most proficient in C++ and python but I do know some Java, Bash, HTML, Javascript, SQL, Rust ( And have no problem coding in them if needed ).
+- I am most proficient in `C++ and python` but I do know some `Java, Bash, HTML, Javascript, SQL, Rust` ( And have no problem coding in them if needed ).
 - Retro tech lover !
 
 ### Contact me  
