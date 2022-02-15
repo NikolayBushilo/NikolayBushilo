@@ -1,4 +1,4 @@
-## Hi there, I'm Nikolay Bushilo 👋
+## Hi there, I'm Nikolay Bushilo - you can call me Niko 👋
 
 <!--
 **Niko7334/Niko7334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
