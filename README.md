@@ -15,8 +15,7 @@ If you have any questions or wish to collaborate.
 **Twitter**  : @---------------
 
 ### My other projects
-
-See PHM for more
+....
 
 <!--
 **Niko7334/Niko7334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
