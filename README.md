@@ -45,11 +45,9 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 
 ---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/wint3rnoodl3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://{PROJECT_NAME}.vercel.app/api" alt="Current Spotify Song">
+</a>
 
 ###
 
