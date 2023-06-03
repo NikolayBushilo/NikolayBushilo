@@ -4,16 +4,10 @@
 
 ### I'm a current student eagerly diving into the world of technology. 
 
-My journey in the tech industry has been quite diverse. I've explored various domains, ranging from software to hardware. Whether it's working with microcontrollers and SBCs on various projects, diving into cybersecurity and pentesting,
+My journey in the tech industry has been quite diverse. I've explored various domains, ranging from software to hardware. Whether it's working with microcontrollers and SBCs on various projects, diving into cybersecurity and pentesting, or delving into front-end and back-end development, I've embraced the opportunity to broaden my horizons. I thoroughly enjoy the design side of the domain, finding innovative solutions to problems and thinking outside the box.
 
 
-> With an unyielding passion for innovation, my ultimate goal is to utilize technology as a tool for empowerment and support for those around me.
-
-
-
-###
-
-Feel free to explore my GitHub repositories to see the projects I've been working on and the solutions I've implemented. I'm always open to feedback, collaboration, and discussions.
+> Feel free to explore my GitHub repositories to see the projects I've been working on and the solutions I've implemented. I'm always open to feedback, collaboration, and discussions.
 
 ---
 
@@ -43,7 +37,6 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 
 <br />
 
----
 
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://github-spotify-profile.vercel.app/api" alt="Current Spotify Song">
