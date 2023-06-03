@@ -42,8 +42,3 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 </div>
 
 <br />
-I firmly believe in the power of collaboration and the open-source community. I'm actively involved in contributing to various open-source projects, aiming to make a positive impact on the lives of developers and users alike. Through my contributions, I hope to foster an inclusive and supportive environment where knowledge and ideas are shared freely.
-
-
-
-
