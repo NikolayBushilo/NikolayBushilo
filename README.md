@@ -9,7 +9,6 @@ I firmly believe in the power of collaboration and the open-source community. I'
 
 My journey in the tech industry has been quite diverse. I've explored various domains, ranging from software to hardware. Whether it's working with microcontrollers and SBCs on various projects, diving into cybersecurity and pentesting, or delving into front-end and back-end development, I've embraced the opportunity to broaden my horizons. I thoroughly enjoy the design side of the domain, finding innovative solutions to problems and thinking outside the box.
 
-# 
 
 <br clear="both">
 
@@ -36,7 +35,5 @@ My journey in the tech industry has been quite diverse. I've explored various do
 </div>
 
 ###
-
-While I'm proficient in C++ and Python, I'm also well-versed in other languages such as Java, Bash, HTML, JavaScript, SQL, and even Rust. I'm always ready to apply my coding skills when needed, and find immense satisfaction in crafting solutions and strategies that address real-world challenges.
 
 Feel free to explore my GitHub repositories to see the projects I've been working on and the solutions I've implemented. I'm always open to feedback, collaboration, and discussions.
