@@ -9,7 +9,6 @@ My journey in the tech industry has been quite diverse. I've explored various do
 
 > Feel free to explore my GitHub repositories to see the projects I've been working on and the solutions I've implemented. I'm always open to feedback, collaboration, and discussions.
 
----
 
 <br clear="both">
 
@@ -36,6 +35,8 @@ My journey in the tech industry has been quite diverse. I've explored various do
 </div>
 
 <br />
+
+---
 
 | 🎵 Now Playing                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
