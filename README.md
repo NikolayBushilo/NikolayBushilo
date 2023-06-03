@@ -46,7 +46,7 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 ---
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://niko7334.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://github-spotify-profile.vercel.app/api" alt="Current Spotify Song">
 </a>
 
 ###
