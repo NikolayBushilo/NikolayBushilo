@@ -37,10 +37,9 @@ My journey in the tech industry has been quite diverse. I've explored various do
 
 <br />
 
-
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://github-spotify-profile.vercel.app/api" alt="Current Spotify Song">
-</a>
+| 🎵 Now Playing                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+|<a href="https://github.com/tthn0/Spotify-Readme"><img src="https://github-spotify-profile.vercel.app/api" alt="Current Spotify Song"></a>|
 
 ###
 
