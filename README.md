@@ -1,4 +1,4 @@
-## Hello there! 👋
+# Hello there! 👋
 
 I'm a current student at the IUT de Cherbourg, eagerly diving into the world of technology. With an unyielding passion for innovation, my ultimate goal is to utilize technology as a tool for empowerment and support for those around me.
 
