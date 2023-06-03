@@ -4,7 +4,7 @@
 
 ### I'm a current student eagerly diving into the world of technology. 
 
-My journey in the tech industry has been quite diverse. I've explored various domains, ranging from software to hardware. Whether it's working with microcontrollers and SBCs on various projects, diving into cybersecurity and pentesting, or delving into front-end and back-end development, I've embraced the opportunity to broaden my horizons. I thoroughly enjoy the design side of the domain, finding innovative solutions to problems and thinking outside the box.
+My journey in the tech industry has been quite diverse. I've explored various domains, ranging from software to hardware. Whether it's working with microcontrollers and SBCs on various projects, diving into cybersecurity and pentesting,
 
 
 > With an unyielding passion for innovation, my ultimate goal is to utilize technology as a tool for empowerment and support for those around me.
