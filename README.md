@@ -40,4 +40,4 @@ My journey in the tech industry has been quite diverse. I've explored various do
 
 | 🎵 Now Playing                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
-|<a href="https://github.com/tthn0/Spotify-Readme"><img src="https://github-spotify-profile.vercel.app/api" alt="Current Spotify Song"></a>|
+|<a href="https://github.com/tthn0/Spotify-Readme"><img src="https://github-spotify-profile.vercel.app/api?spin=true" alt="Current Spotify Song"></a>|
